@@ -1,0 +1,14 @@
+{
+    "name": "Marriuss.SmartLogger.Utils",
+    "rootNamespace": "Marriuss.SmartLogger.Utils",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

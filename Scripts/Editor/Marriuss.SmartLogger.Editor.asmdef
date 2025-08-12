@@ -1,0 +1,16 @@
+{
+    "name": "Marriuss.SmartLogger.Editor",
+    "rootNamespace": "Marriuss.SmartLogger.Editor",
+    "references": [
+        "GUID:a6cb9309e47fc854abfe80db7dea4a3f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
