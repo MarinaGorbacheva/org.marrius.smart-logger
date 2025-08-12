@@ -1,11 +1,16 @@
 {
-    "name": "org.marrius.smart-logger",
-    "version": "1.0.0",
-    "description": "Smart logger that's able to print your logs pretty.",
-    "displayName": "Smart Logger",
+	"name": "org.marriuss.smart-logger",
+	"version": "1.0.0",
+	"description": "Smart logger that's able to print your logs pretty.",
+	"displayName": "Smart Logger",
 	"author": "Marina Gorbacheva",
-    "keywords": [
-        "unity",
+	"samples": {
+		"displayName": "SampleScene",
+		"description": "Contains sample scene and script",
+		"path": "Samples~/SampleScene"
+	},
+	"keywords": [
+		"unity",
 		"logger"
-    ]
+	]
 }
